@@ -1,4 +1,4 @@
 baseURL = "https://femorenoba.github.io"
 defaultContentLanguage = "en"
 title = "Nuevo Proyecto"
-theme = "hugo-scroll"
+theme = "hugo-scroll" 
