@@ -1,4 +1,4 @@
-baseURL = "https://femorenoba.github.io/npm/"
+baseURL = "https://femorenoba.github.io"
 defaultContentLanguage = "en"
-title = "La ideota"
+title = "Nuevo Proyecto"
 theme = "hugo-scroll"
