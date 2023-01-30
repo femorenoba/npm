@@ -1,5 +1,5 @@
 ---
-header_image: "images/header.png"
+header_image: "images/header.jpg"
 header_headline: "ReNueva"
 header_subheadline: "Renovando Sueños"
 ---
