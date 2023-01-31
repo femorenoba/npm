@@ -3,4 +3,4 @@ title: "Resumen"
 weight: 1
 ---
 
-Somos una empresa de remodelación del hogar  que brinda servicios de renovación y mejora a viviendas. Ofrecemos servicios desde la planificación y diseño hasta la ejecución y finalización de proyectos de renovación de interiores y exteriores. Incluimos contratistas, diseñadores, carpinteros, electricistas y plomeros, entre otros. Nuestra mision es ayudar a los clientes a transformar sus viviendas en espacios más funcionales, atractivos y acogedores que satisfagan sus necesidades y deseos.
+{{<resume>}}

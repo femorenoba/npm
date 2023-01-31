@@ -1,52 +1,45 @@
 ---
-title: "Proyecto"
+title: "Introducción"
 weight: 2
 header_menu: true
+
 ---
+¿Sabias que en Bogotá y Cundinamarca en el año 2022 se vendieron 41.847 viviendas?.
 
-## Indroducción
+Y se espera que para el año 2023 crezca en un 9.8% según Camacol.
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+![Imagen de un apto gris ;-)](images/estadistica.png)
 
-![Imagen de un apto gris ;-)](images/apto.png)
 
-Wow. That was nice, right? Well, call me and let us talk.
+
 
 ---
 
 ## Problema
-
-Did you see the picture above? I can show you how to go from
-
+{{<justify>}}
 
 
-in estimated seconds.
+![Imagen de un apto gris ;-)](images/apto1.png)
+
+![Imagen de un apto gris 2;-)](images/apto2.png)
+
 
 ---
 ## Solución
 
-Did you see the picture above? I can show you how to go from
-
-
-in estimated seconds.
+{{<solucion>}}
 
 ---
 ## Tamaño de mercado
 
-Did you see the picture above? I can show you how to go from
-
-
-in estimated seconds.
+{{<mercado>}}
 
 ---
 ## ¿Por qué ahora?
 
-Did you see the picture above? I can show you how to go from
-
+{{<ahora>}}
 
 
 ---
 
-Want to learn more about my services?
 
-Check out [this page](services) I created. It carries a lot more details...
